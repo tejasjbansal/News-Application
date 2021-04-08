@@ -13,8 +13,7 @@ flutter pub get
 
 flutter run
 
-<img src="Screenshots/First.png" width="350">
 <img src="Screenshots/Second.png" width="400">
-<img src="Screenshots/Third.png" width="450">
-<img src="Screenshots/Fourth.png" width="500">
+<img src="Screenshots/Third.png" width="400">
+<img src="Screenshots/Fourth.png" width="400">
 
