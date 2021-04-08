@@ -5,3 +5,10 @@ News App is a simple news app 🗞️ which uses NewsAPI to fetch top news headl
 
 API News Is JSON API for live news and blog articles from the media.
 
+## Installation
+
+flutter pub get
+
+## Usage
+
+flutter run
