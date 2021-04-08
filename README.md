@@ -13,4 +13,5 @@ flutter pub get
 
 flutter run
 
-![](Screenshots/First.png)
+<img src="Screenshots/First.png" width="100">
+
