@@ -7,6 +7,7 @@ https://drive.google.com/file/d/1VBvYpNoyq0FwF7OTtTno77uAYsNRQNN1/view?usp=shari
 # Resource 
 News application using the API from https://newsapi.org/
 
+# Screenshots
 <img src="Screenshots/Second.png" width="400"><br>
 <img src="Screenshots/Third.png" width="400"><br>
 <img src="Screenshots/Fourth.png" width="400"><br>
